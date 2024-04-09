@@ -22,6 +22,3 @@ Atualmente, estou focado em expandir meu conhecimento em desenvolvimento web, de
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
